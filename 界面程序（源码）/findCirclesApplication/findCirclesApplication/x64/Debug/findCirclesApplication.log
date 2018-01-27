@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/1/14 9:39:45。
+     1>项目“G:\ProjectFiles\findLittleCircle\findCirclesApplication\findCirclesApplication\findCirclesApplication.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_findcirclesapplication.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_findcirclesapplication.cpp, GeneratedFiles\Release\moc_findcirclesapplication.cpp.
+     1>ClCompile:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\ProGrammeFiles\QT5.7.1\5.7\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\ProGrammeFiles\QT5.7.1\5.7\msvc2013_64\include\QtCore /ID:\ProGrammeFiles\QT5.7.1\5.7\msvc2013_64\include\QtGui /ID:\ProGrammeFiles\QT5.7.1\5.7\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt findcirclesapplication.cpp
+         findcirclesapplication.cpp
+     1>g:\projectfiles\findlittlecircle\findcirclesapplication\findcirclesapplication\GBK.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCV3.1.0\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCV3.1.0\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCV3.1.0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ProjectFiles\findLittleCircle\findCirclesApplication\x64\Debug\\findCirclesApplication.exe" /NOLOGO /LIBPATH:D:\ProGrammeFiles\QT5.7.1\5.7\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ProjectFiles\findLittleCircle\findCirclesApplication\x64\Debug\findCirclesApplication.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ProjectFiles\findLittleCircle\findCirclesApplication\x64\Debug\findCirclesApplication.lib" /MACHINE:X64 x64\Debug\findCircles.obj
+         x64\Debug\findcirclesapplication.obj
+         x64\Debug\moc_findcirclesapplication.obj
+         x64\Debug\qrc_findcirclesapplication.obj
+         x64\Debug\main.obj
+         findCirclesApplication.vcxproj -> G:\ProjectFiles\findLittleCircle\findCirclesApplication\x64\Debug\findCirclesApplication.exe
+     1>已完成生成项目“G:\ProjectFiles\findLittleCircle\findCirclesApplication\findCirclesApplication\findCirclesApplication.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.86

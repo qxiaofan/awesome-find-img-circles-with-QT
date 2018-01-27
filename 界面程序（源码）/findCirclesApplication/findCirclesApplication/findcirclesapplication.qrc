@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="寻找小圆">
+    <file>tupian/发现小圆/discover_73.798045602606px_1162916_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="设置路径">
+    <file>tupian/路径/path_71.623824451411px_1207935_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="读取图片">
+    <file>tupian/读取图片/pictures_55.178571428571px_1204563_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="设置阈值">
+    <file>tupian/设置阈值/electrical_threshold_48px_1169345_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="设置亮度值">
+    <file>tupian/设置亮度阈值/Brightness_48px_1191655_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="检测图片">
+    <file>tupian/检测图片/face_detect_43.467811158798px_1195571_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="下一张">
+    <file>tupian/下一张/next_48px_1205821_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="退出">
+    <file>tupian/退出/system_exit_48px_540086_easyicon.net.png</file>
+  </qresource>
+</RCC>
